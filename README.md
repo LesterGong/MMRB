@@ -10,7 +10,7 @@
 
 <p align="center">
     <img src="assets/overview_of_mmrb.png" width="45%"> <br>
-  <b>Overview of MMRB.</b> 
+  <b>Overview of the MMRB benchmark, which evaluates MLLMs on 92 multi-image-only sub-tasks annotated with reasoning steps.</b> 
 </p>
 
 ## 🛠️ Data Construction Pipeline
