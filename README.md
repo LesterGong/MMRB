@@ -2,7 +2,7 @@
 
 🌟 This is the official repository for the paper "[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](paper_link)".
 
-[[🌐 HomePage](https://mmrb-benchmark.github.io/)] [[🤗Dataset](https://huggingface.co/)] [[📖 ArXiv Paper](paper_link)]
+[[🌐 HomePage](https://mmrb-benchmark.github.io/)] [[🤗Dataset](https://huggingface.co/datasets/HarrytheOrange/MMRB)] [[📖 ArXiv Paper](paper_link)]
 
 ## 💥 News
 
