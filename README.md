@@ -33,18 +33,18 @@ The leaderboard is available [here](https://mmrb-benchmark.github.io/#leaderboar
 
 ```
 MMRB/
-├── Data_Download/                    # Data download related scripts
+├── data_download/                    # Data download related scripts
 │   └── downloader.py                 # Dataset downloader
 │
-├── Src/                              # Source code directory
+├── src/                              # Source code directory
 │   ├── Annotation_Tool/              # Data annotation tool
-│   ├── Api_Model_Inference/          # API model inference related code
+│   ├── API_Model_Inference/          # API model inference related code
 │   ├── Data_Construction/            # Data construction and processing scripts
 │   ├── Evaluate/                     # model evaluation code
 │   ├── Open_Source_Model_Inference/  # Open-source model inference and evaluation
 │   └── Reward/                       # Reward model code
 │
-├── Assets/                           # Project resource files (images)
+├── assets/                           # Project resource files (images)
 └── README.md                         # Project documentation
 ```
 
