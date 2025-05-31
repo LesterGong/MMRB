@@ -29,6 +29,8 @@ Multimodal Multi-image Reasoning Benchmark (MMRB), the first benchmark designed 
 
 The leaderboard is available [here](https://mmrb-benchmark.github.io/#leaderboard)
 
+## 📁 Project Structure
+
 ## 🚀 Quick Start
 
 ## 📝 Citation
