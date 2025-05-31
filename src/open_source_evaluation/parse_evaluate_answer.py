@@ -171,15 +171,6 @@ def extract_predicted_answer(cot_answer):
         return answer
     
     return None
-    last_line = cot_answer.strip().split('\n')[-1].strip().strip('*')
-    
-    cleaned = re.sub(r'^[\([\{]*\s*', '', last_line)
-    cleaned = re.sub(r'[\)]\}\.\:：\s]*$', '', cleaned)
-
-    if len(cleaned) == 0:
-        return None
-
-    return None
 
 def evaluate_predictions(data):
     task_correct = defaultdict(int)

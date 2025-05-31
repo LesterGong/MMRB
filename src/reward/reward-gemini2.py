@@ -24,7 +24,7 @@ PROXY_BASE_URL = "Your Base URL"
 MODEL_NAME_FOR_PROXY = "gemini-2.0-flash-lite-preview-02-05"
 
 
-JSON_DATA_PATH = "MMRB_data_compare.json"
+JSON_DATA_PATH = "MMRB_data_reward.json"
 CSV_OUTPUT_PATH = f"./{MODEL_NAME_FOR_PROXY}_via_proxy/reward_model_stats_concurrent_en.csv"
 
 MAX_CONCURRENT_REQUESTS = 100

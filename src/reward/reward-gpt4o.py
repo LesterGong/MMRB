@@ -23,7 +23,7 @@ API_KEYS = [
 ]
 
 BASE_URL = "your_base_url"
-JSON_DATA_PATH = "MMRB_data_compare.json"
+JSON_DATA_PATH = "MMRB_data_reward.json"
 CSV_OUTPUT_PATH = "./gpt4o/reward_model_stats_gpt4o-2024-11-20.csv"
 
 MAX_CONCURRENT_REQUESTS = 100 # maximum number of concurrent API requests

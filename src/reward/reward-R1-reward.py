@@ -257,7 +257,7 @@ async def process_single_path_async(session: aiohttp.ClientSession, semaphore: a
 
 async def main_async():
     try:
-        json_file_path = "MMRB_data_compare.json"
+        json_file_path = "MMRB_data_reward.json"
         if not os.path.exists(json_file_path):
             print(f"error: data file '{json_file_path}' not found.")
             sys.exit(1)

@@ -23,7 +23,7 @@ API_KEYS = [
 ]
 
 BASE_URL = "YOUR_OPENAI_API_BASE_URL"  
-JSON_DATA_PATH = "MMRB_data_compare.json"
+JSON_DATA_PATH = "MMRB_data_reward.json"
 CSV_OUTPUT_PATH = "./gpt-4o-mini-2024-07-18/reward_model_stats_gpt-4o-mini-2024-07-18.csv"
 
 MAX_CONCURRENT_REQUESTS = 100 # maximum number of concurrent API requests

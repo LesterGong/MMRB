@@ -188,7 +188,7 @@ def get_reward_score(model_obj, processor_obj, image_paths, question_text, answe
         return None
 
 try:
-    json_file_path = "MMRB_data_compare.json"
+    json_file_path = "MMRB_data_reward.json"
     if not os.path.exists(json_file_path):
         print(f"Error: Data file '{json_file_path}' not found.")
         sys.exit(1)

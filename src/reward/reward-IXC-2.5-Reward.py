@@ -50,9 +50,9 @@ def get_reasoning_steps_text(steps, path_index, is_modified=False):
     return ""
 
 try:
-    json_data = load_json_data("MMRB_data_compare.json")
+    json_data = load_json_data("MMRB_data_reward.json")
 except FileNotFoundError:
-    print("Error: MMRB_data_compare.json not found.")
+    print("Error: MMRB_data_reward.json not found.")
     sys.exit(1)
 
 stats = {

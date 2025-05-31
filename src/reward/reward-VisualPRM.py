@@ -123,7 +123,7 @@ def main():
         torch.cuda.empty_cache()
 
     parser = argparse.ArgumentParser(description='Accelerate Inference for VisualPRM-8B')
-    parser.add_argument('--json_file', type=str, default="MMRB_data_compare.json", help='path to the JSON data file')
+    parser.add_argument('--json_file', type=str, default="MMRB_data_reward.json", help='path to the JSON data file')
     parser.add_argument('--model_path', type=str, default='/home/localuser/xbr/data/PRMModel', help='path to the model')
     args = parser.parse_args()
 
