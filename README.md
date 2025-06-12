@@ -1,10 +1,13 @@
 # MMRB: An MultiModal Multi-image Reasoning Benchmark
 
-🌟 This is the official repository for the paper "[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](paper_link)".
+🌟 This is the official repository for the paper "[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](https://arxiv.org/abs/2506.04280)".
 
-[[🌐 HomePage](https://mmrb-benchmark.github.io/)] [[🤗Dataset](https://huggingface.co/datasets/HarrytheOrange/MMRB)] [[📖 ArXiv Paper](paper_link)]
+[[🌐 HomePage](https://mmrb-benchmark.github.io/)] [[🤗Dataset](https://huggingface.co/datasets/HarrytheOrange/MMRB)] [[📖 ArXiv Paper](https://arxiv.org/abs/2506.04280)]
 
 ## 💥 News
+
+- **[2025.06.06]** Our paper is now accessible at https://arxiv.org/abs/2506.04280
+- **[2025.05.31]** Our dataset is now accessible at [Huggingface Datasets](https://huggingface.co/datasets/HarrytheOrange/MMRB)
 
 ## 👀 About MMRB
 
@@ -56,3 +59,15 @@ python downloader.py
 ```
 
 ## 📝 Citation
+
+If you find our benchmark useful in your research, please kindly use the following BibTeX entry to cite our paper.
+Thanks!
+
+```
+@article{cheng2025evaluating,
+  title={Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark},
+  author={Cheng, Ziming and Xu, Binrui and Gong, Lisheng and Song, Zuhe and Zhou, Tianshuo and Zhong, Shiqi and Ren, Siyu and Chen, Mingxiang and Meng, Xiangchao and Zhang, Yuxin and others},
+  journal={arXiv preprint arXiv:2506.04280},
+  year={2025}
+}
+```
