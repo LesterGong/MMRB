@@ -1,4 +1,4 @@
-# MMRB: An MultiModal Multi-image Reasoning Benchmark
+# MMRB: A MultiModal Multi-image Reasoning Benchmark
 
 🌟 This is the official repository for the paper "[Evaluating MLLMs with Multimodal Multi-image Reasoning Benchmark](https://arxiv.org/abs/2506.04280)".
 
